@@ -7,5 +7,9 @@ public class SolarSystem {
         obrey.sun=1;
         obrey.moon=2;
         obrey.planets=2;
+
+        Sun s = new Sun();
+        s.color="green";
+        s.temp="15701573053k";
     }
 }
